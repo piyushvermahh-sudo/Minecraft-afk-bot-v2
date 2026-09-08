@@ -1,7 +1,7 @@
 {
   "server": {
-    "host": "ip_of_your_smp_server", 
-    "port": 42422,
+    "host": "aternos_mota.aternos.me", 
+    "port": 49631
     "version": "1.21.4"
   },
   "bot": {
